@@ -1,15 +1,20 @@
 # 3130585774/flarum-feedback (Archive)
 
-This repository is a permanent, read-only archive of released versions of `3130585774/flarum-feedback`, preserved by the [Extension Archive for Flarum](https://github.com/flarchive/archive-index).
+This repository is a permanent, read-only archive of released versions of `3130585774/flarum-feedback`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+
+> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-## Quick Download
+## Archive Status
 
-- **Latest Archived Version:** `v1.0.3`
-- **Flarum Compatibility:** `^2.0`
-- **Direct Download (.zip):** [Download v1.0.3 (.zip)](https://github.com/flarchive/3130585774-flarum-feedback/archive/refs/tags/archive/v1.0.3.zip)
-- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/3130585774-flarum-feedback/tags)
+- **Latest Archived Release:** `v1.0.3`
+- **Target Flarum Compatibility:** `^2.0`
+- **Declared License:** `MIT`
+- **Upstream Repository:** https://github.com/3130585774/flarum-feedback.git
+- **All Archived Tags:** [View Tags](https://github.com/flarchive/3130585774-flarum-feedback/tags)
+
+*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
 
 ## Archive Catalog
 
